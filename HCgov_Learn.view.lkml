@@ -1,5 +1,5 @@
-view: hcgov_marketplace {
-  sql_table_name: `steady-cat-772.Chartbeat_GoogleSheets.healthcare_Marketplace` ;;
+view: hcgov_learn {
+  sql_table_name: `steady-cat-772.Chartbeat_GoogleSheets.healthcare_Learn` ;;
 
 
   dimension: timestamp {
@@ -12,5 +12,4 @@ view: hcgov_marketplace {
     type: sum
     sql: ${TABLE}.Concurrents ;;
   }
-
 }
