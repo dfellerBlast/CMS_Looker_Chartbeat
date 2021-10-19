@@ -12,6 +12,7 @@ explore: cuidadodesalud_pc2_0 {}
 explore: hcgov_app3_0 {}
 explore: hcgov_classic_apply {}
 explore: hcgov_domain {}
+explore: hcgov_learn {}
 explore: hcgov_marketplace {}
 explore: hcgov_pc2_0 {}
 explore: hcgov_waitingroom {}
